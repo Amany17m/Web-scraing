@@ -1,0 +1,29 @@
+Type,Content
+Heading H1,<h1>Web Scraping Practice</h1>
+Paragraph,<p>Welcome to the web scraping task! Use your skills to extract the required data from this page.</p>
+Paragraph,<p><strong>Sharp Objects</strong></p>
+Paragraph,"<p style=""color: green;"">£47.82</p>"
+Paragraph,"<p style=""color: green;"">✔ In stock</p>"
+Paragraph,"<p><strong>In a Dark, Dark Wood</strong></p>"
+Paragraph,"<p style=""color: green;"">£19.63</p>"
+Paragraph,"<p style=""color: green;"">✔ In stock</p>"
+Paragraph,<p><strong>The Past Never Ends</strong></p>
+Paragraph,"<p style=""color: green;"">£56.50</p>"
+Paragraph,"<p style=""color: green;"">✔ In stock</p>"
+Paragraph,<p><strong>A Murder in Time</strong></p>
+Paragraph,"<p style=""color: green;"">£16.64</p>"
+Paragraph,"<p style=""color: green;""> Out stock</p>"
+Paragraph,"<p class=""name"">Wireless Headphones</p>"
+Paragraph,"<p class=""price"" style=""display: none;"">$49.99</p>"
+Paragraph,"<p class=""colors"">Available colors: Black, White, Blue</p>"
+Paragraph,"<p class=""name"">Smart Speaker</p>"
+Paragraph,"<p class=""price"" style=""display: none;"">$89.99</p>"
+Paragraph,"<p class=""colors"">Available colors: Grey, Black</p>"
+Paragraph,"<p class=""name"">Smart Watch</p>"
+Paragraph,"<p class=""price"" style=""display: none;"">$149.99</p>"
+Paragraph,"<p class=""colors"">Available colors: Black, Silver, Gold</p>"
+Paragraph,<p>© 2024 Web Scraping Practice. All Rights Reserved.</p>
+List Item,"<li class=""redul""> Milk </li>"
+List Item,"<li class=""redul""> Oranges </li>"
+List Item,"<li class=""blueol""> Milk </li>"
+List Item,"<li class=""blueol""> Oranges </li>"

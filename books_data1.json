@@ -1,0 +1,14 @@
+[
+    {
+        "Book Title": "Book 1",
+        "Price": "$10.99",
+        "Stock Availability": "In Stock",
+        "Button Text": "Add to basket"
+    },
+    {
+        "Book Title": "Book 2",
+        "Price": "$15.49",
+        "Stock Availability": "Out of Stock",
+        "Button Text": "Add to basket"
+    }
+]
